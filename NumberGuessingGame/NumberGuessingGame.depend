@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695872201 source:d:\projects\codsoft-cpp-intern-projects\numberguessinggame\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695874484 source:d:\projects\codsoft-cpp-intern-projects\movie system\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+

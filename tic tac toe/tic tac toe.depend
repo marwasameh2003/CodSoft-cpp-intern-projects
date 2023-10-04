@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1695750952 source:d:\projects\intern2grow-console-programming-intern-projects\tic tac toe\main.cpp
+	<iostream>
+	"dec.h"
+
+1695750813 d:\projects\intern2grow-console-programming-intern-projects\tic tac toe\dec.h
+
+1695750878 source:d:\projects\intern2grow-console-programming-intern-projects\tic tac toe\def.cpp
+	<iostream>
+	"dec.h"
+
+1695783499 source:d:\projects\codsoft-cpp-intern-projects\tic tac toe\def.cpp
+	<iostream>
+	"dec.h"
+
+1695783520 d:\projects\codsoft-cpp-intern-projects\tic tac toe\dec.h
+
+1695783508 source:d:\projects\codsoft-cpp-intern-projects\tic tac toe\main.cpp
+	<iostream>
+	"dec.h"
+
