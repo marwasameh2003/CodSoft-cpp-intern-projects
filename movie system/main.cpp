@@ -45,12 +45,12 @@ public:
     }
     void reservation( )
     {
-        counter++;
         cout<< "How many seats do you want? ";
         int seat;
         cin>>seat;
         while(seat--)
         {
+        counter++;
         int col;
         char row;
         cout<<"Enter Row(A-E): ";
@@ -78,7 +78,7 @@ public:
     }
     void calculateCost()
     {
-     cout<< "The total cost is "<< (counter * this.price)<< " for "<< counter<< " tickets for "<<name << " movie\n";
+     cout<< "\nThe total cost is "<< (counter *price)<< " for "<< counter<< " tickets for "<<name << " movie\n";
      cout<< "See you soon!\n";
     }
     void program()
@@ -86,6 +86,7 @@ public:
         display();
         cout<<"\n";
         reservation();
+        calculateCost();
     }
 
 };
